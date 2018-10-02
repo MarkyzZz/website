@@ -31,10 +31,10 @@
                 </div>
 
                 <div class="links">
-                    <a href=""> Studio </a>
-                    <a href=""> Work </a>
-                    <a href=""> Blog </a>
-                    <a href=""> Contacts </a>
+                    <a href="">Studio</a>
+                    <a href="/work">Work</a>
+                    <a href="">Blog</a>
+                    <a href="">Contacts</a>
                 </div>
             </div>
         </div>
