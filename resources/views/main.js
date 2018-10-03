@@ -17,3 +17,8 @@ $('.modal').on('hidden.bs.modal', function (e) {
   // do something...
   $(this).find('iframe').attr("src", $(this).find('iframe').attr("src"));
 });
+
+$('.text').click(function(){
+  let id = $(this).parent().parent().find('img').data('target');
+  $(id).modal('show');
+});

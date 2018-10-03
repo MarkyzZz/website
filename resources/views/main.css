@@ -99,11 +99,11 @@ html, body {
     text-align: center;
 }
 
-a:hover img, a:active img {
+a:hover img{
     opacity: 0.3;
 }
 
-a:hover .middle, a:active .middle {
+a:hover .middle {
     opacity: 1;
 }
 
